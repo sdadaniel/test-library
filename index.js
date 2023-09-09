@@ -1,1 +1,1 @@
-export default { data: 123 };
+export default { data: 1234 };
